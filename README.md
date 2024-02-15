@@ -1,9 +1,9 @@
 
 # Todo List
 
-A C++/Qt-based graphical application designed to manage movie information. It allows users to reserved movies, search, and navigate through movies in a paginated view. It allows admins add new moviees, edit and delete them.
+A C++/Qt-based graphical application allowing users to manage their tasks efficiently. It allows users to add, edit, delete, search and tag tasks.
 
-## Images of Game
+## Images of Todo-List
 
 ![Main Window](/images/main_window.png)
 
