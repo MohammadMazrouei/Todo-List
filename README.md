@@ -1,7 +1,7 @@
 
 # Todo List
 
-A C++/Qt-based graphical application allowing users to manage their tasks efficiently. It allows users to add, edit, delete, search and tag tasks.
+A simple yet powerful task management application designed to help users organize and prioritize their tasks through a user-friendly graphical user interface (GUI). Whether you need to manage daily tasks, work projects, or personal goals, Task Manager makes it easy to stay organized and productive.
 
 ## Images of Todo-List
 
@@ -15,10 +15,10 @@ A C++/Qt-based graphical application allowing users to manage their tasks effici
 
 ## Features
 
-- Task Management: Users can add, view, edit, delete, and search tasks through a user-friendly interface, ensuring efficient task tracking and management.
-- Customizable Task Categories: Offers the ability to categorize tasks, making it easier to organize and prioritize work.
-- Interactive GUI: A sleek and intuitive graphical user interface (GUI) designed for ease of use, allowing for seamless navigation and interaction with tasks.
-- Data Persistence: Tasks and settings are saved and persisted, ensuring that users can pick up where they left off across sessions.
+- **Task Management:** Add, view, edit, and delete tasks with ease.
+- **Customizable Task Categories:** Organize tasks into categories for better organization.
+- **Interactive GUI:** A clean and intuitive interface for seamless navigation and task interaction.
+- **Data Persistence:** Keep your tasks and settings saved across sessions.
 
 ## Prerequisites
 
